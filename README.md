@@ -13,10 +13,10 @@ Documentation of this repository is automatically done with Quarto using GitHub 
 
 This is related to the template for the microservice frontend at https://github.com/vanHeemstraSystems/value-stream-management-gui/
 
+Based on "Flow Framework" at From Project to Product by Mik Kersten (eBook)
+
 Based on "Awesome Quarto" at https://github.com/mcanouil/awesome-quarto
 
 Based on "Quarto Web" at https://github.com/quarto-dev/quarto-web and https://quarto.org/
 
 Based on "Creating your personal website using Quarto" at https://ucsb-meds.github.io/creating-quarto-websites/
-
-Based on "Flow Framework" at From Project to Product by Mik Kersten (eBook)
